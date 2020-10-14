@@ -10,9 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92c9f7ba-dca5-469b-aff4-fe3187fdf303" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/myfirstpage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resume.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/numbers.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mypage.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/mypage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/resume.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +57,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -71,7 +73,8 @@
       <updated>1600452756167</updated>
       <workItem from="1600452757306" duration="3594000" />
       <workItem from="1600639033258" duration="1397000" />
-      <workItem from="1601331156665" duration="16848000" />
+      <workItem from="1601331156665" duration="17357000" />
+      <workItem from="1602644211903" duration="12597000" />
     </task>
     <servers />
   </component>
@@ -79,22 +82,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1461" height="254" key="GridCell.Tab.0.bottom" timestamp="1601866310398">
+    <state width="1461" height="254" key="GridCell.Tab.0.bottom" timestamp="1602709153654">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="254" key="GridCell.Tab.0.bottom/0.0.1504.1003@0.0.1504.1003" timestamp="1601866310398" />
-    <state width="1461" height="254" key="GridCell.Tab.0.center" timestamp="1601866310397">
+    <state width="1461" height="254" key="GridCell.Tab.0.bottom/0.0.1504.1003@0.0.1504.1003" timestamp="1602709153654" />
+    <state width="1461" height="254" key="GridCell.Tab.0.center" timestamp="1602709153654">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="254" key="GridCell.Tab.0.center/0.0.1504.1003@0.0.1504.1003" timestamp="1601866310397" />
-    <state width="1461" height="254" key="GridCell.Tab.0.left" timestamp="1601866310396">
+    <state width="1461" height="254" key="GridCell.Tab.0.center/0.0.1504.1003@0.0.1504.1003" timestamp="1602709153654" />
+    <state width="1461" height="254" key="GridCell.Tab.0.left" timestamp="1602709153654">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="254" key="GridCell.Tab.0.left/0.0.1504.1003@0.0.1504.1003" timestamp="1601866310396" />
-    <state width="1461" height="254" key="GridCell.Tab.0.right" timestamp="1601866310397">
+    <state width="1461" height="254" key="GridCell.Tab.0.left/0.0.1504.1003@0.0.1504.1003" timestamp="1602709153654" />
+    <state width="1461" height="254" key="GridCell.Tab.0.right" timestamp="1602709153654">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state width="1461" height="254" key="GridCell.Tab.0.right/0.0.1504.1003@0.0.1504.1003" timestamp="1601866310397" />
+    <state width="1461" height="254" key="GridCell.Tab.0.right/0.0.1504.1003@0.0.1504.1003" timestamp="1602709153654" />
     <state x="254" y="146" key="SettingsEditor" timestamp="1601852916941">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
